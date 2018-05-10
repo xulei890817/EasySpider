@@ -105,3 +105,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.gitignore
+.idea/
+crawler.py
+logger.py
